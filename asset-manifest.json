@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a23361e.css",
+    "main.js": "/static/js/main.1bd54fd6.js",
+    "static/js/453.2ca03d68.chunk.js": "/static/js/453.2ca03d68.chunk.js",
+    "static/media/StrikeSecLiveLogo.svg": "/static/media/StrikeSecLiveLogo.de6e0e4315bfc604e53b93055d13d1c5.svg",
+    "index.html": "/index.html",
+    "main.5a23361e.css.map": "/static/css/main.5a23361e.css.map",
+    "main.1bd54fd6.js.map": "/static/js/main.1bd54fd6.js.map",
+    "453.2ca03d68.chunk.js.map": "/static/js/453.2ca03d68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a23361e.css",
+    "static/js/main.1bd54fd6.js"
+  ]
+}
